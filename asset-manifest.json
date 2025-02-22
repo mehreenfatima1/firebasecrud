@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/firebasecrud/static/js/main.abc66371.js",
+    "index.html": "/firebasecrud/index.html",
+    "main.abc66371.js.map": "/firebasecrud/static/js/main.abc66371.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.abc66371.js"
+  ]
+}
