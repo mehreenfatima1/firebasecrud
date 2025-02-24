@@ -19,12 +19,12 @@ const Header = () => {
 {
     
         name:"Home",
-        url:"./"
+        url:"/"
       
 },
 {
     name:"Products",
-    url:"./products"
+    url:"/products"
   }]
   const [anchorElNav, setAnchorElNav] = React.useState(null)
 
