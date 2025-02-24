@@ -24,7 +24,7 @@ const Header = () => {
 },
 {
     name:"Products",
-    url:"/products"
+    url:"/#/products"
   }]
   const [anchorElNav, setAnchorElNav] = React.useState(null)
 
