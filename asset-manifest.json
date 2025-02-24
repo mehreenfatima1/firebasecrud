@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/firebasecrud/static/js/main.907734ee.js",
+    "main.js": "/firebasecrud/static/js/main.db9840d7.js",
     "index.html": "/firebasecrud/index.html",
-    "main.907734ee.js.map": "/firebasecrud/static/js/main.907734ee.js.map"
+    "main.db9840d7.js.map": "/firebasecrud/static/js/main.db9840d7.js.map"
   },
   "entrypoints": [
-    "static/js/main.907734ee.js"
+    "static/js/main.db9840d7.js"
   ]
 }
